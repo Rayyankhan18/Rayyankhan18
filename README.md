@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rayyan Khan</h1>
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&duration=3000&pause=500&color=FDFEFE&background=2A2E3425&center=true&vCenter=true&lines=Founder+%40+Holo-AI;AI+Researcher;LLMops+Specialist;Full+Stack+Developer;UAV+%26+Drone+Expert;Robotics+%26+IoT+Engineer;Open-Source+Advocate;Cloud+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&duration=3000&pause=500&color=FDFEFE&background=2A2E3425&center=true&vCenter=true&lines=Founder+%40+Holo-AI;AI+Researcher;LLMops+Specialist;Full+Stack+Developer;UAV+%26+Drone+Expert;AI+%26+ML+Engineer;Open-Source+Advocate;Cloud+Developer)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Rayyankhan18&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -82,9 +82,9 @@ Published in ICITEB Conference
 - CS50's Introduction to Artificial Intelligence with Python (Harvard University)
 
 ### Hackathon Achievements 🏅
-- 🥇 **1st Place** - Kodikon 3.0 by PES University (National level)
+- 🥇 **1st Place** - Kodikon 3.0 by PES University (National level anong 1500+ teams)
 - 🥈 **2nd Place** - Smart India Hackathon by Presidency University
-- 🏆 **Top 3** - IIST Trivandrum Tech Fest Conscientia
+- 🏆 **Top 3** - IIST Trivandrum Tech Fest Conscientia (International Tech Fest)
 - 🥉 **4th Place** - Smashhack Cybersecurity Hackathon (Top 4 among 1400+ teams)
 - 🏆 **Top 10** - Hashcode 12.0 by The Innovation Lab PES University
 - 🏅 **10th Place** - Medicoure IIT Madras Research Park competition
@@ -102,12 +102,8 @@ Published in ICITEB Conference
   - Navigation system using Raspberry Pi
   
 - **Humanoid Robot Project (Ongoing)**
-  - Features sentiment analysis and AI-powered text-to-speech
+  - Features sentiment analysis and AI-powered text-to-speech powered by Jetson Nano
 
-- **University Communication Platform (Ongoing)**
-  - Comprehensive chatting application with community features
-  - Integrated AI chatbot for query handling
-  - News aggregation for university updates
 
 ## Languages 🌍
 
