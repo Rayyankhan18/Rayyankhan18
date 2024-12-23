@@ -17,13 +17,20 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       
-      - name: generate snake.svg
+      - name: generate snake.svg for light mode
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Rayyankhan18
           outputs: |
             dist/snake.svg?palette=github-light
             
+      - name: generate snake.svg for dark mode
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: Rayyankhan18
+          outputs: |
+            dist/snake-dark.svg?palette=github-dark
+
       - name: push snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
