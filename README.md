@@ -82,7 +82,7 @@ Published in ICITEB Conference
 - CS50's Introduction to Artificial Intelligence with Python (Harvard University)
 
 ### Hackathon Achievements 🏅
-- 🥇 **1st Place** - Kodikon 3.0 by PES University (National level anong 1500+ teams)
+- 🥇 **1st Place** - Kodikon 3.0 by PES University (National level among 1500+ teams)
 - 🥈 **2nd Place** - Smart India Hackathon by Presidency University
 - 🏆 **Top 3** - IIST Trivandrum Tech Fest Conscientia (International Tech Fest)
 - 🥉 **4th Place** - Smashhack Cybersecurity Hackathon (Top 4 among 1400+ teams)
@@ -103,7 +103,6 @@ Published in ICITEB Conference
   
 - **Humanoid Robot Project (Ongoing)**
   - Features sentiment analysis and AI-powered text-to-speech powered by Jetson Nano
-
 
 ## Languages 🌍
 
@@ -137,6 +136,9 @@ Web Dev        ████████████░░░░░░░   65%
 IoT/Robotics   ███████████░░░░░░░░   60%
 DevOps         ████████░░░░░░░░░░░   45%
 ```
+
+## My Contributions 🐍
+![Snake animation](https://github.com/Rayyankhan18/Rayyankhan18/blob/output/snake.svg)
 
 ## Connect with Me 🌟
 
