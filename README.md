@@ -4,7 +4,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&duration=3000&pause=500&color=FDFEFE&background=2A2E3425&center=true&vCenter=true&lines=Founder+%40+Holo-AI;AI+Researcher;LLMops+Specialist;Full+Stack+Developer;UAV+%26+Drone+Expert;AI+%26+ML+Engineer;Open-Source+Advocate;Cloud+Developer)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rayyankhan18&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=Rayyankhan18&label=Profile%20views&color=ffffff&style=flat" />
+    <source media="(prefers-color-scheme: light)" srcset="https://komarev.com/ghpvc/?username=Rayyankhan18&label=Profile%20views&color=0e75b6&style=flat" />
+    <img alt="Profile views" src="https://komarev.com/ghpvc/?username=Rayyankhan18&label=Profile%20views&color=0e75b6&style=flat" />
+  </picture>
 </p>
 
 </div>
@@ -138,20 +142,37 @@ DevOps         ████████░░░░░░░░░░░   45%
 ```
 
 ## My Contributions 🐍
-![Snake animation](https://github.com/Rayyankhan18/Rayyankhan18/blob/output/snake.svg?palette=github-light)
+<div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github.com/Rayyankhan18/Rayyankhan18/blob/output/snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github.com/Rayyankhan18/Rayyankhan18/blob/output/snake.svg"
+    />
+    <img
+      alt="github contribution grid snake animation"
+      src="https://github.com/Rayyankhan18/Rayyankhan18/blob/output/snake.svg"
+    />
+  </picture>
+</div>
 
 ## Connect with Me 🌟
 
 <div align="center">
-  <a href="https://github.com/Rayyankhan18" target="_blank">
-    <img src=https://img.shields.io/badge/github-%232E3440.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://www.linkedin.com/in/rayyan-khan-/" target="_blank">
-    <img src=https://img.shields.io/badge/linkedin-%232E3440.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-  </a>
-  <a href="#">
-    <img src=https://img.shields.io/badge/follow-%232E87FB.svg?&style=for-the-badge&logo=&logoColor=white alt=follow style="margin-bottom: 5px;" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/github-%23ffffff.svg?&style=for-the-badge&logo=github&logoColor=black">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white">
+    <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white">
+  </picture>
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/linkedin-%23ffffff.svg?&style=for-the-badge&logo=linkedin&logoColor=blue">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
+  </picture>
 </div>
 
 ## GitHub Statistics 📊
@@ -159,28 +180,36 @@ DevOps         ████████░░░░░░░░░░░   45%
 <table>
   <tr>
     <td colspan="2">
-      <a href="#">
-        <img width=100% src="https://github-profile-trophy.vercel.app/?username=Rayyankhan18&hide_border=true&count_private=true&column=-1&theme=nord&no-frame=true" />
-      </a>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Rayyankhan18&theme=nord&no-frame=true">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Rayyankhan18&theme=flat&no-frame=true">
+        <img width=100% src="https://github-profile-trophy.vercel.app/?username=Rayyankhan18&theme=flat&no-frame=true">
+      </picture>
     </td>
   </tr>
   <tr>
     <td colspan="2">
-      <a href="#">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rayyankhan18&bg_color=2e3440&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff" />
-      </a>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Rayyankhan18&bg_color=2e3440&color=ffffff&line=88c0d0&point=ffffff">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Rayyankhan18&bg_color=ffffff&color=000000&line=0969da&point=000000">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rayyankhan18">
+      </picture>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="#">
-        <img src="https://streak-stats.demolab.com?user=Rayyankhan18&theme=nord&hide_border=true" />
-      </a>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Rayyankhan18&theme=nord">
+        <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Rayyankhan18&theme=default">
+        <img src="https://streak-stats.demolab.com?user=Rayyankhan18">
+      </picture>
     </td>
     <td>
-      <a href="#">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rayyankhan18&theme=nord_dark" />
-      </a>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rayyankhan18&theme=nord_dark">
+        <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rayyankhan18&theme=default">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rayyankhan18">
+      </picture>
     </td>
   </tr>
 </table>
