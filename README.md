@@ -138,7 +138,7 @@ DevOps         ████████░░░░░░░░░░░   45%
 ```
 
 ## My Contributions 🐍
-![Snake animation](https://github.com/Rayyankhan18/Rayyankhan18/blob/output/snake.svg)
+![Snake animation](https://github.com/Rayyankhan18/Rayyankhan18/blob/output/snake.svg?palette=github-light)
 
 ## Connect with Me 🌟
 
