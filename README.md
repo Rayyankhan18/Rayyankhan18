@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello World, I'm Rayyan Khan</h1>
+<h1 align="center">👋 Hey there, I'm Rayyan Khan</h1>
 <div align="center">
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&duration=3000&pause=500&color=FDFEFE&background=2A2E3425&center=true&vCenter=true&lines=Founder+%40+Holo-AI;AI+Researcher;LLMops+Specialist;Full+Stack+Developer;UAV+%26+Drone+Expert;AI+%26+ML+Engineer;Open-Source+Advocate;Cloud+Developer)](https://git.io/typing-svg)
